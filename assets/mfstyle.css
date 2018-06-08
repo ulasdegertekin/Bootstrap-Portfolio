@@ -1,0 +1,77 @@
+h1{
+    font-size: 28px;
+    font-weight: 500px;
+    
+}
+.headerc{
+    background-color: blueviolet;
+    
+}
+
+h2{
+    margin-top: 15px;
+}
+
+p{
+   
+}
+/* to make the image fit in the container in mobile resp.*/
+.image1{
+width: 275px;
+height: 275px;
+margin-top: 1rem;
+margin-left: 1rem;
+margin-right: 1rem;
+float: left;
+}
+/*to seperate the nav bar, header and the main container from each other*/
+.navm{
+    margin-top: 15px;
+    margin-bottom: 15px;
+
+}
+
+.a {
+    display: inline-block;
+    padding-left: 15px;
+    margin-left: 15px;
+}
+.footer1{
+    background-color: rgb(78, 0, 151);
+    color:greenyellow;
+    margin-bottom: 0%;
+    margin-top: 35px;
+
+}
+.submit1{
+    margin-bottom: 1rem;
+}
+
+.label{
+position: relative;
+float: left;
+width: 274px;
+margin: 20px 0 25px;
+overflow: auto;
+}
+.work img {
+    width: 100%;
+    border: 0 none;
+    opacity: 0.8;
+  }
+  
+.work h4 {
+    position: relative;
+    bottom: 70px;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 0;
+    font-weight: 300;
+    line-height: 30px;
+    color: #fff;
+    text-align: center;
+    background: #02ca4f;
+    border-bottom: 0;
+  }
+
+ 
